@@ -1,0 +1,82 @@
+{
+  "product": "Mexico Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the New Year"
+    },
+    {
+      "title": "Constitution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-03T12:00:00",
+      "endDate": "2025-02-03T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "green",
+      "description": "Commemoration of the Mexican Constitution"
+    },
+    {
+      "title": "Benito Juárez's Birthday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-03-17T12:00:00",
+      "endDate": "2025-03-17T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "teal",
+      "description": "Celebration of the birth of Benito Juárez"
+    },
+    {
+      "title": "Labor Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "yellow",
+      "description": "International Workers' Day"
+    },
+    {
+      "title": "Independence Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-09-16T12:00:00",
+      "endDate": "2025-09-16T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of Mexican Independence"
+    },
+    {
+      "title": "Revolution Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-17T12:00:00",
+      "endDate": "2025-11-17T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of the Mexican Revolution"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Mexico",
+      "product": "Mexico Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Celebration of Christmas"
+    }
+  ]
+}
